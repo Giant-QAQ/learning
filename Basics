@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <title>Last Week What I Have Done</title>
+  </head>
+  <body>
+  <h1 align="center">Appraisal of Myself</h1>
+  <!--search wngines use headings to index the web page structure and con tent. -->
+  <p align="right20%">It is very bad<br/>
+  I didn't do anything worthful enough to say.</p>
+  <!--use <p></p>tag and <br/>tag to build construction. -->
+  <ul>
+  <li>Bought too many useless things. </li>
+  <li>Ate too much, and did not get fit. </li>
+  <li>Learned too little. </li>
+  </ul>
+  <!--This is an unordered list, we can use order list with <ol> tag. -->
+  <hr width="75%" align="center"/>
+  <!--horizon line-->
+  <p align="left">My Favorite Game is <strong>
+  <a href="https://baike.baidu.com/item/塞尔达传说%EF%BC%9A荒野之息"target="_blank">
+  The Legend of Zelda: Breath of the Wild. 
+  </a></strong> I love Mipha. I want stay with her forever.<p>
+  <!-- the <a> tag can be used to insert a link. The target attribute specifies where to open the linked document.
+  Giving a _blank value to your attribute will have the link open in a new window or new tab-->
+  <!-- the <b> <big> <i> <small> <strong> <sub> <sup> <ins> <del> tags can change text formatting-->
+  
+  </body>
+</html>
