@@ -1,28 +1,37 @@
-<html>
-  <head>
-    <title>Last Week What I Have Done</title>
-  </head>
-  <body>
-  <h1 align="center">Appraisal of Myself</h1>
-  <!--search wngines use headings to index the web page structure and con tent. -->
-  <p align="right20%">It is very bad<br/>
-  I didn't do anything worthful enough to say.</p>
-  <!--use <p></p>tag and <br/>tag to build construction. -->
-  <ul>
-  <li>Bought too many useless things. </li>
-  <li>Ate too much, and did not get fit. </li>
-  <li>Learned too little. </li>
-  </ul>
-  <!--This is an unordered list, we can use order list with <ol> tag. -->
-  <hr width="75%" align="center"/>
-  <!--horizon line-->
-  <p align="left">My Favorite Game is <strong>
-  <a href="https://baike.baidu.com/item/塞尔达传说%EF%BC%9A荒野之息"target="_blank">
-  The Legend of Zelda: Breath of the Wild. 
-  </a></strong> I love Mipha. I want stay with her forever.<p>
-  <!-- the <a> tag can be used to insert a link. The target attribute specifies where to open the linked document.
-  Giving a _blank value to your attribute will have the link open in a new window or new tab-->
-  <!-- the <b> <big> <i> <small> <strong> <sub> <sup> <ins> <del> tags can change text formatting-->
+#1 The element of a web page:
+  the paragraph:  <p>this is a paragraph</p>
+  the break:      <br/>
   
-  </body>
-</html>
+  special types of text:
+              <html>
+                <head>
+                  <title>first page</title>
+                </head>
+                </body>
+                  <p>This is regular text</p>
+                  <p><b>bold text</b><p>
+                  <p><big>big text</big><p>
+                  <p><big> big text </big></p>
+                  <p><i> italic text </i></p>
+                  <p><small> small text </small></p>
+                  <p><strong> strong text </strong></p>
+                  <p><sub> subscripted text </sub></p>
+                  <p><sup> superscripted text </sup></p>
+                  <p><ins> inserted text </ins></p>
+                  <p><del> deleted text </del></p>
+               </body>
+              </html>
+  the headings
+              <html>
+               <head>
+                  <title>first page</title>
+               </head>
+               <body>
+                  <h1>This is heading 1</h1>
+                  <h2>This is heading 2</h2>
+                  <h3>This is heading 3</h3>
+                  <h4>This is heading 4</h4>
+                  <h5>This is heading 5</h5>
+                  <h6>This is heading 6</h6>
+               </body>
+             </html>
